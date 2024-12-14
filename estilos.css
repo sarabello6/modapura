@@ -133,8 +133,6 @@ ul{
 }
 
 #rodape{
-    /*float: inline-end;*/
-    /*margin-right: 950px;*/
     align-content: center;
     background-color: #ACBFA3;
     margin-top: 200px;
@@ -153,7 +151,6 @@ h4{
 }
 
 .logo1{
-    /*padding-left: 50px;*/
     text-align: center;
 }
 
@@ -270,7 +267,6 @@ input{
 }
 
 #info{
-    /*margin-left: 15px;*/
     font-size: 25px;
 }
 
